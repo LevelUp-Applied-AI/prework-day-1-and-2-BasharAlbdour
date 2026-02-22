@@ -22,21 +22,21 @@
 
 ## Evidence Checklist
 
-- [ <img width="536" height="43" alt="Screenshot 2026-02-22 212531" src="https://github.com/user-attachments/assets/fdd2e0dd-88b5-4590-b90b-c3f950af0dac" />
+- [ <img width="536" height="43" alt="Screenshot 2026-02-22 212531" src="https://github.com/user-attachments/assets/7ad87362-a7ad-4bcf-9d4a-1a37371d84eb" />
 ] Screenshot: OS version
-- [ <img width="440" height="33" alt="image" src="https://github.com/user-attachments/assets/c3cc4bff-d82e-467b-a2e8-c7174b79fffc" />
+- [ <img width="440" height="33" alt="Screenshot 2026-02-22 213236" src="https://github.com/user-attachments/assets/c3c7ca01-dd4c-4988-a0aa-7b30208c9d81" />
 ] Screenshot: RAM and CPU details
-- [ <img width="481" height="91" alt="image" src="https://github.com/user-attachments/assets/0e007118-5fcb-492a-8251-8b4eb5f80ee5" />
+- [ <img width="481" height="91" alt="Screenshot 2026-02-22 213305" src="https://github.com/user-attachments/assets/86fa52ed-62bc-4511-aa17-0a488def1645" />
 ] Screenshot: Free disk space
-- [<img width="726" height="324" alt="image" src="https://github.com/user-attachments/assets/83181e9c-fc09-4d58-a424-7e7b12a5832b" />
- ] Screenshot: Internet speed test result
-- [ <img width="326" height="46" alt="image" src="https://github.com/user-attachments/assets/96e64369-77e0-4291-830f-b1e82a1974d8" />
+- [ <img width="726" height="324" alt="Screenshot 2026-02-22 213317" src="https://github.com/user-attachments/assets/433d5b0b-a4e8-4d31-81a4-2f0481b856f3" />
+] Screenshot: Internet speed test result
+- [ <img width="315" height="49" alt="Screenshot 2026-02-22 223120" src="https://github.com/user-attachments/assets/59e2eb07-ffd7-49e4-8104-e82d6cef4487" />
 ] Screenshot: Admin rights confirmed
 
 **Windows only:**
-- [ <img width="352" height="54" alt="image" src="https://github.com/user-attachments/assets/4cf8ca2e-6f11-476f-9d93-f5fe088d46f8" />
-] Screenshot: `wsl -l -v` output showing WSL 2
-- [ <img width="698" height="71" alt="image" src="https://github.com/user-attachments/assets/d3f77cf9-7d51-42a4-822e-f1921863253d" />
+- [<img width="352" height="54" alt="Screenshot 2026-02-22 223750" src="https://github.com/user-attachments/assets/77dcd5aa-67c3-4eeb-a695-e34307152da6" />
+ ] Screenshot: `wsl -l -v` output showing WSL 2
+- [ <img width="698" height="71" alt="Screenshot 2026-02-22 223812" src="https://github.com/user-attachments/assets/0a321ea2-7ed2-4b6c-a491-470bcb0c71a4" />
 ] Screenshot: `wsl --status` output
 
 ---
