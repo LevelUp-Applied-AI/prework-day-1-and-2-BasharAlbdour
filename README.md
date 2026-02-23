@@ -28,3 +28,13 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## About
+
+[Hello , my name is bashar albdour , and this repository is for setting up git and learning how to use git bash instead of github , so we were asked to do the same assignment as yesterday but using git bash]
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-BasharAlbdour.git  
+
+cd BasharAlbdour-prework
